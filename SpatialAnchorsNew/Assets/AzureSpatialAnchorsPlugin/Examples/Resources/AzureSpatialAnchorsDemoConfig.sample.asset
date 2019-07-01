@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SpatialAnchorsAccountId: f44b8b0a-e5e2-4636-b93d-33dd6a4aae03
   SpatialAnchorsAccountKey: iNGotB7GhIeOV9Jtfs7dddFFPnm2c8eVIOiXWqu1Buc=
-  BaseSharingURL: 
+  BaseSharingURL: https://sharingservice20190318041344.azurewebsites.net/api/anchors
