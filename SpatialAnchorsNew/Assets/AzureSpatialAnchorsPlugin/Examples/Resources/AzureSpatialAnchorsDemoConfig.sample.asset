@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 45b0089a7785abf4f908eb77852f8a71, type: 3}
-  m_Name: AzureSpatialAnchorsDemoConfig
+  m_Name: AzureSpatialAnchorsDemoConfig.sample
   m_EditorClassIdentifier: 
-  SpatialAnchorsAccountId: f44b8b0a-e5e2-4636-b93d-33dd6a4aae03
-  SpatialAnchorsAccountKey: iNGotB7GhIeOV9Jtfs7dddFFPnm2c8eVIOiXWqu1Buc=
-  BaseSharingURL: https://sharingservice20190318041344.azurewebsites.net/api/anchors
+  SpatialAnchorsAccountId: 
+  SpatialAnchorsAccountKey: 
+  BaseSharingURL: 
